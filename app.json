@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "InfiniteScrollRN",
+    "slug": "InfiniteScrollRN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "InfiniteScrollRN"
+}
